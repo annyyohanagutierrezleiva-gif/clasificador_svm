@@ -53,7 +53,7 @@ def evaluar_cliente(modelo, mapa_riesgo, age, sex, bmi, children, smoker, region
 
 # ---------- Pagina ----------
 
-st.title("Clasificador de Riesgo Actuarial")
+st.title("Clasificador SVM Seguros")
 st.write("Anny Yohana Gutierrez - Cuenta: 20211930078")
 
 st.write(
